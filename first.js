@@ -1,7 +1,3 @@
-function call(){
-    console.log("I am an External JavaScript")
-}
-
-var fname = "Maria"
-
-console.log(fname)
+var num = 5
+var num1 = 61
+console.log(num.toString() + num1.toString());
